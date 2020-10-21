@@ -1,7 +1,7 @@
 {
   "name": "elderjs-netlify-kit",
   "version": "1.0.0",
-  "description": "This is a barebones ElderJS & Netlify starter. As it's stripped of default template extras, one should already have used ElderJS.",
+  "description": "This is a barebones Elder.js & Netlify starter. As it's stripped of default template extras, one should already have used ElderJS.",
   "main": "./src/build.js",
   "scripts": {
     "start": "npm run build:rollup && npm run dev:server",
