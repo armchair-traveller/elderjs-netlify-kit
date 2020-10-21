@@ -1,24 +1,34 @@
+# Elder.js Netlify Kity
+
+A barebones template based off the default Elder.js template. Personally used for getting started quick with projects on Netlify.
+
+# Differences
+
+Removals:
+
+- ESLint/Prettier/editor configs & packages.
+- Blog pages and MD
+- Extra pages
+- Yarn
+
 # Elder.js Template Project
 
 <img src="https://img.shields.io/badge/dynamic/json?color=brightgreen&label=Node&query=engines.node&url=https%3A%2F%2Fraw.githubusercontent.com%2Felderjs%2Ftemplate%2Fmaster%2Fpackage.json" alt="node version" />
 
 This is a project template for [Elder.js](https://elderguide.com/tech/elderjs/) apps. The template lives at https://github.com/elderjs/template and the Elder.js source is here: https://github.com/elderjs/elderjs
 
-Here is a demo of the template: [https://elderjs.netlify.app/](https://elderjs.netlify.app/)
-
 ## Get started
 
 To create a new project based on this template using [degit](https://github.com/Rich-Harris/degit):
 
 ```bash
-npx degit Elderjs/template elderjs-app
-cd elderjs-app
+npx degit armchair-traveller/elderjs-netlify-kit
 ```
 
 ### Install the dependencies:
 
 ```bash
-npm install # or just yarn
+npm i
 ```
 
 ### Start Project:
