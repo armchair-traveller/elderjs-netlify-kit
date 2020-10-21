@@ -1,6 +1,12 @@
-/___ELDER___/
 /node_modules/
 /public/
 /build/
 .DS_Store
+.env
+yarn-error.log
 
+# ElderJS
+/___ELDER___/
+
+# Netlify
+.netlify
